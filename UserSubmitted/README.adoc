@@ -14,9 +14,9 @@ These models are not guaranteed to work or print correctly, in case of issues an
 |===
 |Name | Description| Size | Download Link |Printer Type | Instructions | Author | Image
 
-| Base | Official base with recessed top surface | 25x25x6mm | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Base/Base.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Base/Base.step[step] | FDM/Resin | https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/base/[Instructions] | Material Foundry info@materialfoundry.nl | image:Base_Official.jpg[,150]
+| Base | Official base with recessed top surface | 25x25x6mm | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Base/Base.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Base/Base.step[step] | FDM/Resin | https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/base/[Instructions] | Material Foundry info@materialfoundry.nl | image:Base_Official.jpg[,500]
 
-| Base Flat | Official base with flat top surface | 25x25x6mm | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Base/Base_Flat.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Base/Base_Flat.step[step] | FDM/Resin | https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/base/[Instructions] | Material Foundry info@materialfoundry.nl | image:https://github.com/MaterialFoundry/MaterialPlane_Models/tree/main/Base/Img/Base_Official.jpg[,150]
+| Base Flat | Official base with flat top surface | 25x25x6mm | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Base/Base_Flat.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Base/Base_Flat.step[step] | FDM/Resin | https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/base/[Instructions] | Material Foundry info@materialfoundry.nl | image:Base_Official.jpg[,500]
 
 |===
 
@@ -25,7 +25,7 @@ These models are not guaranteed to work or print correctly, in case of issues an
 |===
 |Name | Subcomponent | Description| Download Link |Printer Type | Instructions | Author | Image
 
-.5+.^|Sensor (Micro USB) | |Official 'Full Sensor' with Micro USB port  | .5+.^| FDM/Resin .5+.^| https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/sensorFull/[Instructions] .5+.^| Material Foundry info@materialfoundry.nl .5+.^| image:Sensor_Official.jpg[,150]
+.5+.^|Sensor (Micro USB) | |Official 'Full Sensor' with Micro USB port  | .5+.^| FDM/Resin .5+.^| https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/sensorFull/[Instructions] .5+.^| Material Foundry info@materialfoundry.nl .5+.^| image:Sensor_Official.jpg[,500]
     
     | Main Body | Main body of the sensor |https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/MainBody.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/MainBody.step[step]
   
@@ -35,7 +35,7 @@ These models are not guaranteed to work or print correctly, in case of issues an
     
     | Lid | Lid of the sensor | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/Lid.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/Lid.step[step]
     
-.5+.^|Sensor (USB-C) | |Official 'Full Sensor' with USB-C port  | .5+.^| FDM/Resin .5+.^| https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/sensorFull/[Instructions] .5+.^| Material Foundry info@materialfoundry.nl .5+.^| image:Sensor_Official.jpg[,150]
+.5+.^|Sensor (USB-C) | |Official 'Full Sensor' with USB-C port  | .5+.^| FDM/Resin .5+.^| https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/sensorFull/[Instructions] .5+.^| Material Foundry info@materialfoundry.nl .5+.^| image:Sensor_Official.jpg[,500]
     
     | Main Body | Main body of the sensor |https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/MainBody_USBC.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/MainBody_USBC.step[step]
   
@@ -45,7 +45,7 @@ These models are not guaranteed to work or print correctly, in case of issues an
     
     | Lid | Lid of the sensor | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/Lid.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/Lid.step[step]
    
-| Micstand Mount | | Simple microphone mount for the DFRobot sensor | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/MicstandMount.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/MicstandMount.step[step] | FDM/Resin || Material Foundry info@materialfoundry.nl | image:MicstandMount_Official.jpg[,150]
+| Micstand Mount | | Simple microphone mount for the DFRobot sensor | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/MicstandMount.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/MicstandMount.step[step] | FDM/Resin || Material Foundry info@materialfoundry.nl | image:MicstandMount_Official.jpg[,500]
 
 |===
 
