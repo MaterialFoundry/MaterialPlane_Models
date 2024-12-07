@@ -1,29 +1,73 @@
-Since I mostly use LEGO Minifigures for Pen and Paper I edited the base files a bit. Tolerances came out perfectly with my Bambu X1 with Yayo PLA filament.
+ifdef::env-github[]
+:imagesdir: https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/UserSubmitted/Img
+endif::[]
 
-Bill of material for 1 set:
-- 1x	Base_Brick_Cover
-- 1x	Base_Brick_Magnet
-- 3x	Magnet (3mm diameter, 2mm thickness)
-- electronics as per Cris' design.
+# User Submitted Models
 
-Instructions:
-- Cover
-	- Print with the fully flat side pointed downwards.
-	- Add 3 magnets (3mm diameter, 2mm thickness) to each cover.
-	- Make sure the magnets are switched. One should show up with N, two should show up with S (or vice versa).
-	- The magnets shouldn't need glue. Use pliers to press them into the holes.
-	- Add felt on the outside.
-- Base
-	- Print with the studs pointed downwards. Supports are not needed. Maybe you might need some Brim.
-	- Add 3 magnets (3mm diameter, 2mm thickness) to each base.
-	- Same as the Cover, make sure the magnets are not all in the same direction. Also make sure they are placed correctly in regards to the corresponding Cover.
-	- Order 2x2 Turntable Plates somewhere. They are pretty cheap on Aliexpress. 
-	- Push them onto the studs (Use pliers again if needed). Your figures can now change direction without moving the bases. 
+This folder contains 3D models submitted by users. +
+These models are not guaranteed to work or print correctly, in case of issues and/or questions, please contact the author.
 
-- Tip
-	- Make one set of Cover and Base first. Orient magnets for further sets exactly the same. This way the figures will attach to each other instead of pushing themselves apart.
+## Index
 
-My changes to base design by Cris:
-- Added a cover that is held in place by magnets. It cannot be attached wrong. It also has a recess for easier seperation (e.g. when changing battery).
-- Added 2x2 LEGO compatible studs. You might attach a 2x2 Turntable Plate there.
-- Made the opening for the IR LED slightly smaller. 
+### Base
+[cols="^,^,^,^,^,^,^,^"]
+|===
+|Name | Description| Size | Download Link |Printer Type | Instructions | Author | Image
+
+| Base | Official base with recessed top surface | 25x25x6mm | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Base/Base.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Base/Base.step[step] | FDM/Resin | https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/base/[Instructions] | Material Foundry info@materialfoundry.nl | image:Base_Official.jpg[,750]
+
+| Base Flat | Official base with flat top surface | 25x25x6mm | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Base/Base_Flat.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Base/Base_Flat.step[step] | FDM/Resin | https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/base/[Instructions] | Material Foundry info@materialfoundry.nl | image:Base_Official.jpg[,750]
+
+| Base_Brick_Magnet | Base modified by Nivenante. Can accomodate Lego minifigures and a bottom cover. | 25x25x7mm | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/UserSubmitted/Nivenante/Base_Brick_Magnet.step[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/UserSubmitted/Nivenante/Base_Brick_Magnet.step[step] | FDM/Resin | Use those https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/base/[Instructions]. Additional Lego parts may be needed.| Nivenante |
+
+| Base_Brick_Cover | Bottom cover by Nivenante. Secured in place by magnets. | 25x25x4mm | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/UserSubmitted/Nivenante/Base_Brick_Magnet.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/UserSubmitted/Nivenante/Base_Brick_Magnet.step[step] | FDM/Resin | Press in magnets with pliers. Add felt.] | Nivenante |
+
+|===
+
+### Sensor
+[cols="^,^,^,^,^,^,^,^"]
+|===
+|Name | Subcomponent | Description| Download Link |Printer Type | Instructions | Author | Image
+
+.5+.^|Sensor (Micro USB) | |Official 'Full Sensor' with Micro USB port  | .5+.^| FDM/Resin .5+.^| https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/sensorFull/[Instructions] .5+.^| Material Foundry info@materialfoundry.nl .5+.^| image:Sensor_Official.jpg[,750]
+    
+    | Main Body | Main body of the sensor |https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/MainBody.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/MainBody.step[step]
+  
+    | Controller Bracket | Bracket to hold the microcontroller in place | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/ControllerBracket.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/ControllerBracket.step[step]
+    
+    | Sensor Bracket | Bracket to hold DFRobot sensor in place | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/SensorBracket.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/SensorBracket.step[step]
+    
+    | Lid | Lid of the sensor | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/Lid.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/Lid.step[step]
+    
+.5+.^|Sensor (USB-C) | |Official 'Full Sensor' with USB-C port  | .5+.^| FDM/Resin .5+.^| https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/sensorFull/[Instructions] .5+.^| Material Foundry info@materialfoundry.nl .5+.^| image:Sensor_Official.jpg[,750]
+    
+    | Main Body | Main body of the sensor |https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/MainBody_USBC.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/MainBody_USBC.step[step]
+  
+    | Controller Bracket | Bracket to hold the microcontroller in place | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/ControllerBracket.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/ControllerBracket.step[step]
+    
+    | Sensor Bracket | Bracket to hold DFRobot sensor in place | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/SensorBracket.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/SensorBracket.step[step]
+    
+    | Lid | Lid of the sensor | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/Lid.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/Lid.step[step]
+   
+| Micstand Mount | | Simple microphone mount for the DFRobot sensor | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/MicstandMount.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Sensor/MicstandMount.step[step] | FDM/Resin || Material Foundry info@materialfoundry.nl | image:MicstandMount_Official.jpg[,750]
+
+|===
+
+## Submitting your own models
+If you want to submit your own models, please follow these guidelines:
+
+* Create a folder within `/UserSubmitted` with your name or some other identifier (e.g. `/UserSubmitted/Cris`). All your models will be placed inside this folder
+* You can add subfolders within your folder if you want to add multiple designs (e.g. `/UserSubmitted/Cris/Base`, `/UserSubmitted/Cris/Sensor`, etc)
+* Add a readme file. Please include (at least) the following:
+    ** Introduction: What does your design do or how is it different from other designs
+    ** Bill of materials: A list of everything that's required to build the design. Preferably this would include product numbers, links or search terms. Include clear pictures (maybe with dimensions) if you do not have a product number.
+    ** Print requirements: Any special print requirements (layer height, material, printer type, etc).
+    ** Assembly instructions: Step-by-step instructions on how to assemble the design, preferably with lots of pictures.
+    ** Contact information: Name, email, etc
+* If you have multiple designs, you would preferably have multiple readme files, one for each design (it would be good to separate your designs into multiple folders)
+* Give your designs a sensible name
+* Add at least a `.stl` file and preferably also a `.step` or `.obj` file
+* Add your design to the index above. Please note that the file format of this readme is AsciiDoc, see https://docs.asciidoctor.org/asciidoc/latest/[here] for more info. Images that go in the table must be located in `UserSubmitted/Img`
+* The repository is licensed under an open source MIT license. If you do not provide a separate license, your designs will also fall under the MIT license. You can add your own `LICENSE` file if you want
+
+You can then do a pull request.
