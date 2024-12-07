@@ -18,9 +18,9 @@ These models are not guaranteed to work or print correctly, in case of issues an
 
 | Base Flat | Official base with flat top surface | 25x25x6mm | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Base/Base_Flat.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/Base/Base_Flat.step[step] | FDM/Resin | https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/base/[Instructions] | Material Foundry info@materialfoundry.nl | image:Base_Official.jpg[,750]
 
-| Base_Brick_Magnet | Base modified by Nivenante. Can accomodate Lego minifigures and a bottom cover. | 25x25x7mm | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/UserSubmitted/Nivenante/Base_Brick_Magnet.step[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/UserSubmitted/Nivenante/Base_Brick_Magnet.step[step] | FDM/Resin | https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/base/[Instructions] | |
+| Base_Brick_Magnet | Base modified by Nivenante. Can accomodate Lego minifigures and a bottom cover. | 25x25x7mm | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/UserSubmitted/Nivenante/Base_Brick_Magnet.step[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/UserSubmitted/Nivenante/Base_Brick_Magnet.step[step] | FDM/Resin | https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/base/[Instructions] | Nivenante |
 
-| Base_Brick_Cover | Bottom cover by Nivenante. Secured in place by magnets. | 25x25x4mm | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/UserSubmitted/Nivenante/Base_Brick_Magnet.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/UserSubmitted/Nivenante/Base_Brick_Magnet.step[step] | FDM/Resin | https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/base/[Instructions] | |
+| Base_Brick_Cover | Bottom cover by Nivenante. Secured in place by magnets. | 25x25x4mm | https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/UserSubmitted/Nivenante/Base_Brick_Magnet.stl[stl], https://github.com/MaterialFoundry/MaterialPlane_Models/blob/main/UserSubmitted/Nivenante/Base_Brick_Magnet.step[step] | FDM/Resin | https://materialfoundry.github.io/MaterialPlane/DIY/BuildInstructions/base/[Instructions] | Nivenante |
 
 |===
 
